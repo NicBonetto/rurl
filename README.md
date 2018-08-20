@@ -1,2 +1,2 @@
 # rurl
-Fast URL parser written for JavaScript with love from Rust.
+Fast URL parser written for JavaScript with ♥ from Rust.
